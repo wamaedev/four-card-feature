@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wamaedev/four-card-feature)
-- Live Site URL: [Add live site URL here](https://wamaedev.github.io/four-card-feature-/)
+- Solution URL: [https://github.com/wamaedev/four-card-feature](https://github.com/wamaedev/four-card-feature)
+- Live Site URL: [https://wamaedev.github.io/four-card-feature-/](https://wamaedev.github.io/four-card-feature-/)
 
 ## My process
 
